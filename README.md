@@ -6,3 +6,5 @@
 PASSWORD: eulenc.com
 
 Key For Menu: Insert or Alt+F8 .
+
+Extract all files and run loader. Password and username will load itself due to cfg file!
